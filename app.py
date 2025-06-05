@@ -24,7 +24,6 @@ Caracteristicasz:
 -Variables de entorno: Se guarda Todas las credenciales de whatsapp y google para una 
 administración mas segura.
 
-
 """
 #_______________________________________________________________________________________
 app = Flask(__name__)
